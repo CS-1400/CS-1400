@@ -30,7 +30,7 @@ If the decision is made to not integrate the repl.it IDE into the assignments, s
   - <img src='/assets/student-replit-record.png'>
 
 ## Replit Preparation
-- **Students** must sign up for a free hacker account for this integration: [video directions](https://youtu.be/ZqzVN47oVr0). 
+- **Students** must sign up for a free hacker account for this integration: <a href='https://youtu.be/ZqzVN47oVr0'  target="_blank">video directions</a>. 
 - **Instructors** are not offered the same free upgrade through GitHub.  
   - To access and open student's private repositories in repl.it, an instructor might need to pay for the replit upgrade.
   - Instructors with older "legacy" repl.it accounts might not need the upgrade.
