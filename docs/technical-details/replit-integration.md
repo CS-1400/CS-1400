@@ -15,7 +15,7 @@ parent: Technical Details
 ---
 ## Overview
 
-All assignment repositories are set up for [Repl.it](https://repl.it/~) integration. This is an optional, but extremely useful assignment configuration. 
+All assignment repositories are set up for <a href='https://repl.it/~'  target="_blank">Repl.it</a> integration. This is an optional, but extremely useful assignment configuration. 
 
 If the decision is made to not integrate the repl.it IDE into the assignments, students would simply work in their own IDE's, then paste their code into the `src/exercise.py` file already in the GitHub repository. All other repository features will still work without replit (automated student feedback, etc). The only features that would be lost would be those included with replit, listed below.
 
