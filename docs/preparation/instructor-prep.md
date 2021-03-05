@@ -53,14 +53,14 @@ For each GitHub assignment, update the ***GitHub Assignment Invitation URL*** in
         <details>
             <summary><b>Where to get the URL</b></summary>
             <p>The GitHub Assignment Interface:</p>
-            <img src='/assets/github-url.png'>  
+            <img src='CS-1400/assets/github-url.png'>  
         </details>
     </li>
     <li>
         <details>
             <summary><b>Where to put the URL</b></summary>
             <p>The canvas assignment's link options menu:</p>
-            <img src='/assets/canvas-url.png'>
+            <img src='/CS-1400/assets/canvas-url.png'>
         </details>
     </li>
 </ul>
