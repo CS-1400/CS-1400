@@ -39,7 +39,7 @@ Instructors will need to set up their GitHub assignments before the students can
     <li> 
         <details>
             <summary>Required Assignment Configurations</summary>
-            <img src='/assets/assignment-configurations.png'>
+            <img src='/CS-1400/assets/assignment-configurations.png'>
         </details>
     </li>
 </ul></ul>
@@ -53,7 +53,7 @@ For each GitHub assignment, update the ***GitHub Assignment Invitation URL*** in
         <details>
             <summary><b>Where to get the URL</b></summary>
             <p>The GitHub Assignment Interface:</p>
-            <img src='CS-1400/assets/github-url.png'>  
+            <img src='/CS-1400/assets/github-url.png'>  
         </details>
     </li>
     <li>
