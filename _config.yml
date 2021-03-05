@@ -1,0 +1,23 @@
+remote_theme: pmarsceill/just-the-docs
+description: "CS-1400 Implementation Guide for mentors and instructors."
+url: "https://org-for-testing-autograding.github.io" 
+permalink: /:title/
+
+
+# Upper nav links
+aux_links:
+  "GitHub Classroom": "https://classroom.github.com/classrooms"
+aux_links_new_tab: true
+
+# pages included in page navigation and search
+include:
+  - docs
+  - index.md
+  - 404.html
+exclude:
+  - README.md
+
+# Footer on every page
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: "Copyright &copy; 2021 Bianca Ruiz. Distributed by an <a href='/LICENSE.txt'>MIT license.</a>"
