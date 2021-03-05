@@ -50,7 +50,7 @@ description: "GitHub Classroom Benefits"
         <details>
             <summary><b>Canvas Assignment</b></summary>
             <br>
-            <img src='/assets/canvas-assignment-screenshot.png'>
+            <img src='/CS-1400/assets/canvas-assignment-screenshot.png'>
         </details>
     </li>
 <br>
@@ -58,7 +58,7 @@ description: "GitHub Classroom Benefits"
         <details>
             <summary><b>Instructor Interface</b></summary>
             <br>
-            <img src='/assets/gh-instructor-interface.png'>
+            <img src='/CS-1400/assets/gh-instructor-interface.png'>
         </details>
     </li>
 <br>
@@ -66,7 +66,7 @@ description: "GitHub Classroom Benefits"
         <details>
             <summary><b>Instructor Class Interface</b></summary>
             <br>
-            <img src='/assets/gh-class-interface.png'>
+            <img src='/CS-1400/assets/gh-class-interface.png'>
         </details>
     </li>
 <br>
@@ -74,7 +74,7 @@ description: "GitHub Classroom Benefits"
         <details>
             <summary><b>Instructor Assignment Interface</b></summary>
             <br>
-            <img src='/assets/gh-assignment-interface.png'>  
+            <img src='/CS-1400/assets/gh-assignment-interface.png'>  
         </details>
     </li>
 <br>
