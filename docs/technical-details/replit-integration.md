@@ -22,12 +22,12 @@ If the decision is made to not integrate the repl.it IDE into the assignments, s
 ## Benefits
 - Students can complete their programming assignments without installing anything on their machines. 
 - When Replit is integrated in the GitHub assignment, instructors can enter student's private repositories in repl.it (through the GitHub classroom teacher interface). From there, instructors can use the chat features and code with the student, providing interactive, real-time help and guidance from anywhere.
-  - <img src='/assets/code-and-chat.png'> 
+  - <img src='/CS-1400/assets/code-and-chat.png'> 
 - Instructors can view the minute-by-minute editing that occured (or is still occuring) inside the repository that is cloned into repl.it.
   - You will see the minute the assignment was cloned into repl.it
   - Instructors can easily see **copying and pasting** that would occur when a student is **plagiarizing** their work.
   - This minute-by-minute record also shows the iterative development process that should be occuring if the student is not plagiarizing.
-  - <img src='/assets/student-replit-record.png'>
+  - <img src='/CS-1400/assets/student-replit-record.png'>
 
 ## Replit Preparation
 - **Students** must sign up for a free hacker account for this integration: <a href='https://youtu.be/ZqzVN47oVr0'  target="_blank">video directions</a>. 
