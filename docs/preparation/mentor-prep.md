@@ -20,8 +20,8 @@ Create the programming assignments in the course shell in such a way that it eas
 Examples:
 <ul>
     <li>
-        <img src='/assets/canvas-assignment-screenshot.png'>
+        <img src='/CS-1400/assets/canvas-assignment-screenshot.png'>
     </li>
     <li>
-        <img src='/assets/canvas-url.png'>
+        <img src='/CS-1400/assets/canvas-url.png'>
     </li>
