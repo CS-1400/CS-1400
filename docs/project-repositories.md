@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Assignment Repositories
+title: Student Project Repositories
 nav_order: 5
-description: "Assignment Repsositories"
+description: "Student Project Repsositories"
 ---
-# Assignment Repositories
+# Student Project Repositories
 {: .no_toc }
 ## Table of contents
 {: .no_toc .text-delta }
@@ -15,9 +15,8 @@ description: "Assignment Repsositories"
 ---
 
 ## Overview
-All projects listed below were created by <a href='https://www.uvu.edu/directory/employee/?id=UDVkRFFPQi9OdE1FUXd3aFpWd3JoUT09'  target="_blank">Dr. Rudolph Rudolph</a> (Utah Valley University Professor, Department of Computer Science). The projects were then modified, uploaded, customized, and automated for GitHub implementation by <a href='https://www.uvu.edu/directory/employee/?id=b29WKzQrbHdFNVo3SXhHRWptWlZpQT09'  target="_blank">Bianca Ruiz</a> (Utah Valley University Adjunct Instructor, Department of Computer Science).
+All projects listed below are included in this GitHub CS-1400 Package.
 
-## List of Project Respositories
 1. <a href='https://cs-1400.github.io/Orientation-Assignment/'  target="_blank">GitHub Assignment Orientation</a>
     - Lints student program with flake8
     - Tests student output via pytest
