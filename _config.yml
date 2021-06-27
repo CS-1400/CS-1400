@@ -1,5 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 description: "CS-1400 Implementation Guide for mentors and instructors."
+title: CS-1400 with Ruiz
 url: "https://cs-1400.github.io" 
 permalink: /:title/
 
