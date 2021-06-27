@@ -5,7 +5,7 @@ nav_order: 1
 description: "Home"
 ---
 
-# CS-1400 Guide
+# CS-1400 Instructor Guide
 {: .fs-9 }
 
 Welcome!
